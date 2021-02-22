@@ -13,7 +13,7 @@ SGS token is the governance and equity token is used for mining, liquidity provi
 * **Precision:** 18
 * **Smart Contract Address:** -
 
-## Token Allocation
+## Token Distribution
 
 **Total Supply \(100%\): 100,000,000 SGS**
 
@@ -73,7 +73,7 @@ SGS token is the governance and equity token is used for mining, liquidity provi
   </tbody>
 </table>
 
-## **Funds Allocation**
+## **Funds Distribution**
 
 | Token Model | % | Details |
 | :--- | :--- | :--- |
