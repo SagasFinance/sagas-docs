@@ -45,6 +45,13 @@ SGS token is the governance and equity token is used for mining, liquidity provi
         10% on TGE, 5% per month over 18 months</td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>Liquidity Funds</b>
+      </td>
+      <td style="text-align:left">15%</td>
+      <td style="text-align:left">Liquidity Fund will provide funds for Pancake Swap and other exchanges
+        liquidity</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>Token Sale / IFO</b>
       </td>
       <td style="text-align:left">10%</td>
@@ -52,16 +59,9 @@ SGS token is the governance and equity token is used for mining, liquidity provi
         If Accepted - Fully Unlocked</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Liquidity Funds</b>
-      </td>
-      <td style="text-align:left">10%</td>
-      <td style="text-align:left">Liquidity Fund will provide funds for Pancake Swap and other exchanges
-        liquidity</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><b>General Reserve</b>
       </td>
-      <td style="text-align:left">10%</td>
+      <td style="text-align:left">5%</td>
       <td style="text-align:left">1 year fully locked, then 25% quarterly</td>
     </tr>
     <tr>
