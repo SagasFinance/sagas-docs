@@ -2,7 +2,7 @@
 
 ## Introduction
 
-SGS token is the governance and equity token of the Sagas ecosystem on Binance Smart Chain. SGS is designed to empower the broader DeFi ecosystem to drive the creation of a transparent, community owned, fair and open-source Sagas DeFi Ecosystem on the Binance Smart Chain, Users holding SGS can participate in community proposals and decisions, and receive dividends continuously.
+SGS token is the governance and equity token is used for mining, liquidity providing, fees collection and yield farming of the Sagas ecosystem on Binance Smart Chain. SGS is designed to empower the broader DeFi ecosystem to drive the creation of a transparent, community owned, fair and open-source Sagas DeFi Ecosystem on the Binance Smart Chain, Users holding SGS can participate in community proposals and decisions, and receive dividends continuously.
 
 ## Token Specification
 
