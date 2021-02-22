@@ -78,8 +78,8 @@ SGS token is the governance and equity token is used for mining, liquidity provi
 | Token Model | % | Details |
 | :--- | :--- | :--- |
 | **Developer Team** | 40% | 40% of the funds will be used to support the developer team |
-| **Liquidity Funds** | 35% | 35% of funds will be used to provide liquidity to Pancake Swap and other exchanges |
-| **Ecosystem Growth** | 20% | Marketing actions such as partnerships, awareness and go-to market strategy will account for 20% of the total funds raised \(Ecosystem Growth\) |
+| **Liquidity Funds** | 40% | 40% of funds will be used to provide liquidity to Pancake Swap and other exchanges |
+| **Ecosystem Growth** | 15% | Marketing actions such as partnerships, awareness and go-to market strategy will account for 15% of the total funds raised \(Ecosystem Growth\) |
 | **Legal and Accountancy** | 5% | 5% of funds will be used to Legal and Accoutancy |
 
 ## **Early Investor - Benefit**
